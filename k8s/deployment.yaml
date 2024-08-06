@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: kube-project
-        image: botfluti/project:1.0
+        image: botfluti/project:2.0
         ports:
         - containerPort: 80
 
