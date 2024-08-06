@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='TechTrekLogAnalyzer',
-    version='0.1.0',
+    version='0.1.1',
     packages=find_packages(),
    # description='A package to analyze and report on log file data.',
    # long_description=open('README.md').read(),
