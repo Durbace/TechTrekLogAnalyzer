@@ -4,9 +4,9 @@ setup(
     name='TechTrekLogAnalyzer',
     version='0.1.0',
     packages=find_packages(),
-    description='A package to analyze and report on log file data.',
-    long_description=open('README.md').read(),
-    long_description_content_type='text/markdown',
+   # description='A package to analyze and report on log file data.',
+   # long_description=open('README.md').read(),
+    #long_description_content_type='text/markdown',
     author='Tech Trek Team',
     url='https://github.com/Durbace/TechTrekLogAnalyzer',
     install_requires=[
